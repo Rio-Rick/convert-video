@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Video Converter
+GenericName=Video Converter
+Comment=Convert WebM and MP4 using FFmpeg
+Exec=/usr/local/bin/video-converter
+Icon=multimedia-video-player
+Terminal=false
+Categories=AudioVideo;Video;Utility;
+StartupNotify=true
